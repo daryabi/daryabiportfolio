@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Dawood daryabi",
+    "occupation": "Targeting junior/Fresh / Entry-Level as a SOFTWARE ENGINEER/SOFTWARE QA TESTER",
+    "description": "Experienced in Software Development & Software QA tester",
+    "image": "Dawood.jpeg",
+    "bio": "My name is Dawood daryabi, I'm a Full Stack  Developer. Currently I'm working as freelancing and while also learning some new technologies ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "daryabist2@gmail.com",
+    "phone": "+60 182 025 795 / 182 025 342",
+    "address": {
+      "street": "Jalan Jelatek, Kementah",
+      "city": "Wilayah Persekutuan Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "zip": "54200 "
+    },
+    "website": "https://www.linkedin.com/in/dawood-daryabi-9469b3137/",
+    "resumedownload": "https://www.linkedin.com/in/dawood-daryabi-9469b3137/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mohammaddawood.daryab",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dawood-daryabi-9469b3137/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/d_daryabi/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/daryabi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here Are some of my skills",
+    "education": [
+      {
+        "school": "International Islamic University Malaysia",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "Aug 2019",
+        "description": "Graduated with Hope"
+      }
+    ],
+    "work": [
+      {
+        "company": "SOUQA FINTECH  SDN BHD, Kuala Lumpur",
+        "title": "Full Stack  Developer",
+        "years": "Jul 2020 - Present",
+        "description": "Created shopify app and plugin for merchant."
+      },
+      {
+        "company": "TEH GROUP SDN BHD, Kuala Lumpur",
+        "title": "Software Engineer",
+        "years": "11/2019 – 02/2020",
+        "description": "Designed and developed a CyberAttack and C-Integrity website."
+      },
+      {
+        "company": "DIGI TELECOMMUNICATION SDN BH, MALAYSIA",
+        "title": "Software Engineer",
+        "years": "12/2018 – 08/2019",
+        "description": "Designed and developed Mydigi Business website and created Automation testing for it."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "35%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "45%"
+      },
+      {
+        "name": "PHP",
+        "level": "75%"
+      },
+      {
+        "name": "Laravel",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "45%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Automation Testing",
+        "level": "75%"
+      },
+      {
+        "name": "Manual Testing",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coming soon",
+        "category": "Coming soon",
+        "image": "#soon",
+        "url": "#coming soon"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Learn and Exprience is the mother of success degree is not a matter.",
+        "user": "Path"
+      },
+      {
+        "text": "You are hard working and always focus on your task! I personally love it ",
+        "user": "Ron"
+      }
+    ]
+  }
+}
